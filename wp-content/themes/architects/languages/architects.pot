@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Architects\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-09 10:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.8.1\n"
+"X-Domain: architects"
+
+#. Name of the theme
+msgid "Architects"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Architects is a beautiful modern WordPress theme, which is designed "
+"especially for the architect and interior design industries. It has a dark "
+"layout and stylish feel and comes with powerful customizer options. It also "
+"helps you to take your business to the next dream level. The theme is "
+"perfectly suited for architecture, interior design, decoration, business, "
+"furniture, home decor, construction, corporate, agency, beauty &amp; spa "
+"salons, photography, gym, restaurant, blog, travel agency, and many other "
+"websites compatible, You will have lots of options to consider. As well as "
+"sophisticated plus it has some exotic features like customization and clean "
+"code, advanced typography, sticky menu, logo upload, header image, Bootstrap "
+"4 framework, built with SEO in mind, and theme info area besides being "
+"Mobile-ready, translation ready (WPML, Polylang) and it's built to be "
+"beautiful on all screen sizes. This theme supports the best Elementor page "
+"builder to create, edit, and updates page designs as per the requirement. "
+"Architects also support popular free and premium WordPress plugins such as "
+"Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics,"
+" and much more. Check the demo of Designexo Pro https://themearile."
+"com/designexo-pro-theme/."
+msgstr ""
+
+#: inc/customizer/architects-customizer-options.php:17
+msgid ""
+"Copyright &copy; 2021 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> Architect theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: footer.php:14
+msgid ""
+"Copyright &copy; 2021 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> Architects theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/customizer/architects-customizer-options.php:22
+msgid "Footer Copyright"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/architects-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: template-parts/site-navbar.php:26
+msgid "Toggle navigation"
+msgstr ""
